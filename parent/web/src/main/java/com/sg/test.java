@@ -5,6 +5,7 @@ public class test {
         int a = 123;
         int b = a;
         int c = 2;
+        System.out.println();
 
         System.out.println(b);
     }
